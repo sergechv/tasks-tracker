@@ -2,7 +2,9 @@
 
 ------
 
-simple CLI tasks tracker to create, list, update and delete tasks.
+simple CLI tasks tracker to create, list, update and delete tasks. project from roadmap.sh [task tracker](https://roadmap.sh/projects/task-tracker)
+
+
 
 ------
 
